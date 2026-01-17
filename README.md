@@ -18,7 +18,7 @@ A free, open-source web application designed for novelists and creative writers.
 
 ## 🚀 Live Demo
 
-[View Live App](https://your-netlify-url.netlify.app)
+[View Live App](https://novelstudium.netlify.app/)
 
 ## 📦 Installation
 
